@@ -14,4 +14,4 @@ OKHttp，Gson
 
 ## 效果：
 
-![1575598592924[1]](D:\Downloads\MaterialViewPager-master\Joke\1575598592924[1].gif)
+![1575598592924[1]](https://raw.githubusercontent.com/31702160323/Joke/master/1575598592924%5B1%5D.gif)
